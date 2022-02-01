@@ -30,7 +30,7 @@ public class Main {
                 sottoMedia = sottoMedia + 1;
             }
         }
-
-        System.out.println("Il numero di temperature sotto la media è " + sottoMedia);
+        
+        System.out.println("Il numero di temperature sotto la media è " + sottoMedia + " (media: " + media + ")");
     }
 }
