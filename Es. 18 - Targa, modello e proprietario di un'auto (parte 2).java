@@ -17,7 +17,6 @@ public class Main {
         int i;
 
         Scanner input = new Scanner(System.in);
-
         targhe = new String[len];
         modelli = new String[len];
         proprietari = new String[len];
