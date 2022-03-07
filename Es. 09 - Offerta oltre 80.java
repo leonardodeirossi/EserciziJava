@@ -11,6 +11,7 @@ public class Main {
         float costoTotale = (float) 0.00;
 
         int secondi;
+        
         Scanner input = new Scanner(System.in);
 
         System.out.print("Inserisci il numero di secondi: ");
